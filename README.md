@@ -15,8 +15,6 @@ Y alguna más...
 </br>
 </br>
 ## Encuéntrame en:
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gordo_Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/isaacgordoflores)
 
 <!--
