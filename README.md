@@ -1,7 +1,7 @@
 ### Hola! Hi there! 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC89rdDf_3S0W4RX63SwOUNA?style=social)](https://www.youtube.com/@IsaacGFlores/?sub_confirmation=1)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
+
 ![GitHub Followers](https://img.shields.io/github/followers/isaacgordoflores?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/isaacgordoflores?style=social)
 
