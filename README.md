@@ -2,8 +2,11 @@
 ### Hi there! 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC89rdDf_3S0W4RX63SwOUNA?style=social)](https://www.youtube.com/@IsaacGFlores/?sub_confirmation=1)
+</br>
 ![GitHub Followers](https://img.shields.io/github/followers/isaacgordoflores?style=social)
+</br>
 ![GitHub Followers](https://img.shields.io/github/stars/isaacgordoflores?style=social)
+</br>
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black)]()
@@ -12,7 +15,6 @@
 </br>
 Y alguna más...
 </br>
-[![JSON](https://img.shields.io/badge/dynamic/json)]()
 </br>
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gordo_Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/isaac-gordo-flores-bb917a279/)
