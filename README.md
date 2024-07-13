@@ -12,7 +12,7 @@
 </br>
 Y alguna más...
 </br>
-https://img.shields.io/badge/dynamic/json
+[![JSON](https://img.shields.io/badge/dynamic/json)]()
 </br>
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gordo_Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/isaac-gordo-flores-bb917a279/)
